@@ -138,12 +138,11 @@ body {
 }
 
 .block-swiper {
-  background: url(../img/foto/speaker\ 1.png) 70% 50% no-repeat, -webkit-gradient(linear, left top, right top, color-stop(16.13%, rgba(48, 86, 211, 0.08)), color-stop(86.29%, rgba(48, 86, 211, 0))), -webkit-gradient(linear, left top, right top, color-stop(18.69%, rgba(48, 86, 211, 0.08)), to(rgba(48, 86, 211, 0)));
-  background: url(../img/foto/speaker\ 1.png) 70% 50% no-repeat, linear-gradient(90deg, rgba(48, 86, 211, 0.08) 16.13%, rgba(48, 86, 211, 0) 86.29%), linear-gradient(90deg, rgba(48, 86, 211, 0.08) 18.69%, rgba(48, 86, 211, 0) 100%);
+  background: url(../img/foto/speaker\ 1.png) 74% 50% no-repeat, url(../img/foto/Vector\ 17.png) 83% no-repeat, url(../img/foto/Vector\ 18.png) 95% no-repeat, #f7f9fa;
 }
 
 .block-swiper__swiper-text {
-  padding: 145px 0 145px 135px;
+  padding: 145px 0 145px 0px;
 }
 .block-swiper__swiper-text h5 {
   margin-bottom: 15px;
@@ -168,12 +167,10 @@ body {
 }
 
 .block-swiper__button {
-  width: 139px;
-  height: 44px;
   border-radius: 30px;
   background-color: #3056D3;
   text-align: center;
-  padding-top: 10px;
+  padding: 13px 33px;
 }
 .block-swiper__button span {
   font-size: 16px;
@@ -189,13 +186,10 @@ body {
   line-height: 1;
   font-weight: 700;
   color: #637381;
-  -webkit-column-count: 6;
-     -moz-column-count: 6;
-          column-count: 6;
 }
 
 .Block-list__one {
-  margin: 0px 0px 100px 100px;
+  margin: 0px 0px 100px 0px;
 }
 .Block-list__one li {
   background: url(../img/icons/Ellipse\ main.png) 5px 4px no-repeat;
@@ -204,7 +198,7 @@ body {
 }
 
 .Block-list__two {
-  margin: 0px 0px 100px 100px;
+  margin: 0px 0px 100px 0px;
 }
 .Block-list__two li {
   background: url(../img/icons/checkmark-circle.png) no-repeat;
@@ -214,7 +208,7 @@ body {
 }
 
 .Block-list__three {
-  margin: 0px 0px 100px 100px;
+  margin: 0px 0px 100px 0px;
 }
 .Block-list__three li {
   background: url(../img/icons/checkmark-circle2.png) no-repeat;
@@ -224,7 +218,7 @@ body {
 }
 
 .Block-list__four {
-  margin: 0px 0px 100px 100px;
+  margin: 0px 0px 100px 0px;
 }
 .Block-list__four li {
   background: url(../img/icons/checkmark-circle3.png) no-repeat;
@@ -234,7 +228,7 @@ body {
 }
 
 .Block-list__five {
-  margin: 0px 0px 100px 100px;
+  margin: 0px 0px 100px 0px;
 }
 .Block-list__five li {
   background: url(../img/icons/arrow-right\ .png) no-repeat;
@@ -244,7 +238,7 @@ body {
 }
 
 .Block-list__six {
-  margin: 0px 0px 100px 100px;
+  margin: 0px 0px 100px 0px;
 }
 .Block-list__six li {
   background: url(../img/icons/star\ .png) no-repeat;
